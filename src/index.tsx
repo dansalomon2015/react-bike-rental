@@ -18,8 +18,8 @@ import { RequireAuth } from "components/";
 import { ROLES } from "utils/";
 import { AuthProvider } from "context";
 
-import LogRocket from "logrocket";
-LogRocket.init("z6i2k5/biker-rentals");
+// import LogRocket from "logrocket";
+// LogRocket.init("z6i2k5/biker-rentals");
 
 const root = ReactDOM.createRoot(document.getElementById("root") as HTMLElement);
 root.render(
