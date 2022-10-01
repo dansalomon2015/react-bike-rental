@@ -1,4 +1,4 @@
-# Toptal technical screening
+# Biker rental App
 
 ## Demo accounts
 
