@@ -25,9 +25,9 @@ jobs:
               with:
                   node-version: ${{ matrix.node-version }}
                   cache: "npm"
-            - run: npm install
-            - run: npm workflow
-            - run: npm build
+            - run: yarn install
+            - run: yarn workflow
+            - run: yarn build
             - name: Deploy to Heroku
               uses: akhileshns/heroku-deploy@v3.12.12
               with:
