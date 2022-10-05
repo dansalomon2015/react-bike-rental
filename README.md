@@ -6,10 +6,6 @@
 
 email : dsalomonj@gmail.com / password : 123456
 
-### User
-
-email : s.nghukam@gmail.com / password : 123456
-
 ## Database
 
 Database provider is firebase/firestore
